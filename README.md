@@ -2,7 +2,7 @@
 ### Senior AI-First Full-Stack Engineer & Cloud Solutions Architect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rafaelaranhadev.com-0f172a?style=flat-square&logo=google-chrome&logoColor=white)](https://rafaelaranhadev.com/games.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelaranha01-0a66c2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rafaolidev](https://www.linkedin.com/in/rafaelaranha01/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelaranha01-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelaranha01/)
 [![Location](https://img.shields.io/badge/Location-Brazil%20(UTC--3)-gray?style=flat-square)]()
 
 ---
