@@ -42,5 +42,5 @@ I approach software engineering with an **AI-first velocity** and **architectura
 
 ### 📬 Get in Touch
 - **Website & Games Portfolio:** [rafaelaranhadev.com](https://rafaelaranhadev.com)
-- **LinkedIn:** [linkedin.com/in/rafaolidev](https://linkedin.com/in/rafaolidev)
-- **Email:** `rafael.aranha@outlook.com`
+- **LinkedIn:** [linkedin.com/in/rafaelaranha01](https://linkedin.com/in/rafaolidev)
+- **Email:** `rafael.aranha@outlook.com` , `rafael@rafaelaranhadev.com`
